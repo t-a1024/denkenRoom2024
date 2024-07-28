@@ -1,0 +1,12 @@
+# .DS_Storeファイルを無視
+.DS_Store
+
+# Windowsで生成される不要なファイルの削除
+Thumbs.db
+ehthumbs.db
+
+# IDEとエディタ
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
