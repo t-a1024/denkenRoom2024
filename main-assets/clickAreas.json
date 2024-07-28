@@ -1,0 +1,42 @@
+[
+    {
+        "name": "audio",
+        "xMin": 0,
+        "xMax": 350,
+        "yMin": 328,
+        "yMax": 850,
+        "url": "audio/index.html"
+    },
+    {
+        "name": "monitor",
+        "xMin": 725,
+        "xMax": 1096,
+        "yMin": 408,
+        "yMax": 540,
+        "url": "illustration/index.html"
+    },
+    {
+        "name": "monitor",
+        "xMin": 826,
+        "xMax": 966,
+        "yMin": 328,
+        "yMax": 443,
+        "url": "illustration/index.html"
+    },
+    {
+        "name": "arcade",
+        "xMin": 1126,
+        "xMax": 1412,
+        "yMin": 415,
+        "yMax": 819,
+        "url": "game/index.html"
+    },
+    {
+        "name": "outdoor",
+        "xMin": 1470,
+        "xMax": 1600,
+        "yMin": 0,
+        "yMax": 900,
+        "url": "new pass"
+    }
+]

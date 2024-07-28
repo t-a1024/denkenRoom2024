@@ -1,0 +1,14 @@
+/* フェードインアニメーション */
+@keyframes fadeIn {
+    0% {
+        filter: opacity(0%);
+    }
+    100% {
+        filter: opacity(100%);
+    }
+}
+
+html{
+    animation-name: fadeIn;
+    animation-duration: 2s;
+}

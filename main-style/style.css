@@ -1,0 +1,19 @@
+/* bodyスタイル */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+/* iframeスタイル */
+iframe {
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    z-index: 1;
+    display: none;
+}
