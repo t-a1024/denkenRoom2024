@@ -1,0 +1,13 @@
+[
+  {
+    "uploadTime": "YYYY-MM-DDTHH:mm:ss.SSSZ",
+    "author": "著者名",
+    "imageName": "画像の名前",
+    "tagList": [
+      "tag1",
+      "tag2"
+    ],
+    "filePass": "ファイル名?パス?ここは未定",
+    "GoogleDriveUrl": "GoogleDriveのURL こっちの都合で入れてるけど使わなくていいはず"
+  }
+]
