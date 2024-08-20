@@ -2,32 +2,32 @@
     {
         "name": "audio",
         "xMin": 0,
-        "xMax": 350,
+        "xMax": 300,
         "yMin": 328,
         "yMax": 850,
         "url": "audio/index.html"
     },
     {
         "name": "monitor",
-        "xMin": 725,
-        "xMax": 1096,
-        "yMin": 408,
-        "yMax": 540,
+        "xMin": 680,
+        "xMax": 1077,
+        "yMin": 460,
+        "yMax": 570,
         "url": "illustration/index.html"
     },
     {
         "name": "monitor",
-        "xMin": 826,
-        "xMax": 966,
+        "xMin": 806,
+        "xMax": 978,
         "yMin": 328,
-        "yMax": 443,
+        "yMax": 469,
         "url": "illustration/index.html"
     },
     {
         "name": "arcade",
         "xMin": 1126,
         "xMax": 1412,
-        "yMin": 415,
+        "yMin": 350,
         "yMax": 819,
         "url": "game/index.html"
     }

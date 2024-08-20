@@ -29,10 +29,17 @@ function drawLabel(x, y, text) {
 
 // ポインターの処理を行う関数
 function handlePointer(x, y) {
+    var flag = false;
     for (const area of clickAreas) {
         if (x > area.xMin && x < area.xMax && y > area.yMin && y < area.yMax) {
             drawLabel(x, y, area.name);
+            flag = true;
         }
+    }
+    if (flag) {
+        canvas.style.cursor = 'pointer';
+    }else{
+        canvas.style.cursor = 'auto';
     }
 }
 
